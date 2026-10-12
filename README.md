@@ -1,12 +1,12 @@
 <!-- Every image links only to my own site, repos or demos -->
 
 <a href="https://saidmuradkhan.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=210&section=header&text=Said%20Muradkhan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=210&section=header&text=Said%20Muradkhan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20PHP%2FLaravel%20%C2%B7%20Python&descAlignY=58&descSize=20&animation=fadeIn" />
 </a>
 
 <p align="center">
   <a href="https://saidmuradkhan.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Said+%F0%9F%91%8B;I+build+fast%2C+pixel-perfect+interfaces;React+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Vite;Turning+designs+into+living+products+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Said+%F0%9F%91%8B;Full-stack+web+apps%2C+front+to+back;React+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+Python;REST+APIs%2C+databases+and+clean+UI+%E2%9C%A8" />
   </a>
 </p>
 
@@ -23,11 +23,12 @@
 ```jsx
 const Said = () => (
   <Developer
-    role="Frontend Developer"
+    role="Full-Stack Developer"
     location="Baku, Azerbaijan 🇦🇿"
     work={["Leops", "Assetra"]}
-    loves={["clean UI", "smooth animations", "responsive layouts", "component design"]}
-    currentlyLearning="advanced TypeScript & performance"
+    frontend={["React", "TypeScript", "Tailwind"]}
+    backend={["PHP", "Laravel", "Python", "Django", "FastAPI"]}
+    currentlyBuilding={["az-job-radar", "cbar-rates", "jobtrack"]}
   />
 );
 ```
@@ -36,11 +37,15 @@ const Said = () => (
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,redux,materialui,vitest&perline=10" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,redux,materialui&perline=9" /></a>
 </p>
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,go,postgres&perline=7" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,express,go&perline=8" /></a>
+</p>
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" /></a>
 </p>
 <p align="center"><b>Tools</b></p>
 <p align="center">
@@ -60,11 +65,21 @@ const Said = () => (
       <br/><b>iTicket</b><br/><sub>Dark mode · events · interactive seat map</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://carify-theta.vercel.app"><img src="https://raw.githubusercontent.com/saidmuradkhan/Carify/HEAD/docs/screenshots/home.png" /></a>
+      <a href="https://carify.saidmuradkhan.dev"><img src="https://raw.githubusercontent.com/saidmuradkhan/Carify/HEAD/docs/screenshots/home.png" /></a>
       <br/><b>Carify</b><br/><sub>Multi-language · customs calculator</sub>
     </td>
   </tr>
 </table>
+
+## 🔨 Currently building
+
+<p align="center">
+  <a href="https://github.com/saidmuradkhan/az-job-radar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=az-job-radar&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
+  <a href="https://github.com/saidmuradkhan/cbar-rates"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=cbar-rates&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
+  <a href="https://github.com/saidmuradkhan/jobtrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=jobtrack&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
+</p>
+
+<p align="center"><sub>A three-service system: a Python scraper and FastAPI analytics, a Go exchange-rate microservice and a Django + React application tracker.</sub></p>
 
 ## 🚀 Projects
 
@@ -78,9 +93,10 @@ const Said = () => (
 <p align="center">
   <b>Live demos:</b>
   <a href="https://saidmuradkhan.dev">Portfolio</a> ·
-  <a href="https://carify-theta.vercel.app">Carify</a> ·
-  <a href="https://cocktail-said-6990.vercel.app">Amber Lounge</a> ·
-  <a href="https://ecommerce-said-6990.vercel.app">E-commerce</a>
+  <a href="https://iticket.saidmuradkhan.dev">iTicket</a> ·
+  <a href="https://carify.saidmuradkhan.dev">Carify</a> ·
+  <a href="https://cocktail.saidmuradkhan.dev">Amber Lounge</a> ·
+  <a href="https://ecommerce.saidmuradkhan.dev">Zenvolt</a>
 </p>
 
 ## 📊 GitHub stats

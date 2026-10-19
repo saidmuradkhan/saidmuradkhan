@@ -71,7 +71,7 @@ const Said = () => (
   </tr>
 </table>
 
-## 🔨 Currently building
+## 🐍 Python · Go · Django projects
 
 <p align="center">
   <a href="https://github.com/saidmuradkhan/az-job-radar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=az-job-radar&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
@@ -80,6 +80,13 @@ const Said = () => (
 </p>
 
 <p align="center"><sub>A three-service system: a Python scraper and FastAPI analytics, a Go exchange-rate microservice and a Django + React application tracker.</sub></p>
+
+<p align="center">
+  <b>Live:</b>
+  <a href="https://radar.saidmuradkhan.dev">az-job-radar</a> ·
+  <a href="https://rates.saidmuradkhan.dev">cbar-rates</a> ·
+  <a href="https://jobs.saidmuradkhan.dev">jobtrack</a>
+</p>
 
 ## 🚀 Projects
 

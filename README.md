@@ -1,17 +1,19 @@
 <!-- Every image links only to my own site, repos or demos -->
 
 <a href="https://saidmuradkhan.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=210&section=header&text=Said%20Muradkhan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20PHP%2FLaravel%20%C2%B7%20Python&descAlignY=58&descSize=20&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:16161A&height=210&section=header&text=Said%20Muradkhan&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Laravel%20%C2%B7%20Python%20%C2%B7%20Go&descAlignY=58&descSize=20&animation=fadeIn" />
 </a>
 
 <p align="center">
   <a href="https://saidmuradkhan.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Said+%F0%9F%91%8B;Full-stack+web+apps%2C+front+to+back;React+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+Python;REST+APIs%2C+databases+and+clean+UI+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Said+%F0%9F%91%8B;Full-stack+web+apps%2C+front+to+back;React+%C2%B7+PHP+%C2%B7+Laravel;Python+%C2%B7+Django+%C2%B7+FastAPI+%C2%B7+Go;REST+APIs%2C+databases+and+clean+UI+%E2%9C%A8" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://saidmuradkhan.dev"><img src="https://img.shields.io/badge/Portfolio-saidmuradkhan.dev-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/said-muradkhan-0103a2350/"><img src="https://img.shields.io/badge/LinkedIn-Said%20Muradkhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://saidmuradkhan.dev/cv/Said_Muradkhan_CV_FullStack.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-16161A?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   <a href="mailto:saidmuradkhan414@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/muradkhansaid"><img src="https://img.shields.io/badge/Instagram-muradkhansaid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -25,10 +27,12 @@ const Said = () => (
   <Developer
     role="Full-Stack Developer"
     location="Baku, Azerbaijan 🇦🇿"
-    work={["Leops", "Assetra"]}
-    frontend={["React", "TypeScript", "Tailwind"]}
-    backend={["PHP", "Laravel", "Python", "Django", "FastAPI"]}
-    currentlyBuilding={["az-job-radar", "cbar-rates", "jobtrack"]}
+    work={{ company: "Leops", products: ["Spec-Taxi", "Assetra", "leops.az"] }}
+    education={["Computer Science @ Khazar University", "Full Stack Web Development @ Div Academy"]}
+    frontend={["React", "JavaScript", "Tailwind", "Vite"]}
+    backend={["PHP", "Laravel", "Python", "Django", "FastAPI", "Go", "Node.js"]}
+    desktop={["C#", ".NET (WPF)", "C++"]}
+    recentlyShipped={["jobtrack", "cbar-rates", "az-job-radar", "PassIn"]}
   />
 );
 ```
@@ -42,6 +46,10 @@ const Said = () => (
 <p align="center"><b>Backend</b></p>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,express,go&perline=8" /></a>
+</p>
+<p align="center"><b>Desktop</b></p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs,dotnet,cpp&perline=3" /></a>
 </p>
 <p align="center"><b>Databases</b></p>
 <p align="center">
@@ -94,6 +102,7 @@ const Said = () => (
   <a href="https://github.com/saidmuradkhan/ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=ecommerce&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
   <a href="https://github.com/saidmuradkhan/Iticket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=Iticket&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
   <a href="https://github.com/saidmuradkhan/Carify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=Carify&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
+  <a href="https://github.com/saidmuradkhan/PassIn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=PassIn&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
   <a href="https://github.com/saidmuradkhan/cocktail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saidmuradkhan&repo=cocktail&theme=radical&hide_border=true&bg_color=16161A&title_color=7F5AF0&icon_color=2CB67D&text_color=E0E0E0&v=3" /></a>
 </p>
 
@@ -103,7 +112,8 @@ const Said = () => (
   <a href="https://iticket.saidmuradkhan.dev">iTicket</a> ·
   <a href="https://carify.saidmuradkhan.dev">Carify</a> ·
   <a href="https://cocktail.saidmuradkhan.dev">Amber Lounge</a> ·
-  <a href="https://ecommerce.saidmuradkhan.dev">Zenvolt</a>
+  <a href="https://ecommerce.saidmuradkhan.dev">Zenvolt</a> ·
+  <a href="https://github.com/saidmuradkhan/PassIn/releases/latest/download/PassIn-Setup.exe">PassIn for Windows ⬇</a>
 </p>
 
 ## 📊 GitHub stats
